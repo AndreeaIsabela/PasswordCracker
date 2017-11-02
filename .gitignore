@@ -56,3 +56,4 @@ Temporary Items
 *.log
 *.idb
 *.ilk
+*.ipch
